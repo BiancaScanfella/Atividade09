@@ -1,0 +1,7 @@
+C:\Users\bianca.ascanfella\source\repos\Aula09CursoSerasa\Aula09CursoSerasa\bin\Debug\Aula09CursoSerasa.exe.config
+C:\Users\bianca.ascanfella\source\repos\Aula09CursoSerasa\Aula09CursoSerasa\bin\Debug\Aula09CursoSerasa.exe
+C:\Users\bianca.ascanfella\source\repos\Aula09CursoSerasa\Aula09CursoSerasa\bin\Debug\Aula09CursoSerasa.pdb
+C:\Users\bianca.ascanfella\source\repos\Aula09CursoSerasa\Aula09CursoSerasa\obj\Debug\Aula09CursoSerasa.csproj.AssemblyReference.cache
+C:\Users\bianca.ascanfella\source\repos\Aula09CursoSerasa\Aula09CursoSerasa\obj\Debug\Aula09CursoSerasa.csproj.CoreCompileInputs.cache
+C:\Users\bianca.ascanfella\source\repos\Aula09CursoSerasa\Aula09CursoSerasa\obj\Debug\Aula09CursoSerasa.exe
+C:\Users\bianca.ascanfella\source\repos\Aula09CursoSerasa\Aula09CursoSerasa\obj\Debug\Aula09CursoSerasa.pdb
